@@ -1,4 +1,4 @@
-# image_comparison
+# Experimental: Compare Two Image with Historgram and Supervised Siamese Networks
 
 Image comparison using different approaches
   1) Comparing Image Histogram
